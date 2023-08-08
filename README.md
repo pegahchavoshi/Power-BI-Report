@@ -1,6 +1,6 @@
 ## Call Center Data Analysis
 
-# Call Centre Trends Dashboard
+# Call Center Trends Dashboard
 I designed a Power BI dashboard to explore different aspects of a call center. This dashboard provides a holistic view of the call center's performance metrics and trends. I curated and showcased key performance indicators (KPIs) that are pivotal in evaluating the efficiency and effectiveness of the call center's operations.
 
 The dashboard showcased the following KPIs:
